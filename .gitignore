@@ -1,0 +1,26 @@
+# Vue、React build output
+dist/
+build/
+node_modules/
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+# Logs
+logs
+*.log
+# OS Specific Files
+.DS_Store
+# Editor Directories and Files
+.vscode/
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Dependency Directories
+node_modules
+# Local Environment Files
+*.local
